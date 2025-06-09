@@ -161,7 +161,7 @@
 
     <footer>
         <div class="container">
-            <p>&copy; 2023 Amit Freelancer. All rights reserved.</p>
+            <p>&copy;  Amit Freelancer. All rights reserved.</p>
         </div>
     </footer>
 </body>
